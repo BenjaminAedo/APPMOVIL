@@ -1,0 +1,7 @@
+{
+  "name": "Clase11-11",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
